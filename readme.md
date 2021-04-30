@@ -1,4 +1,4 @@
-![cover](https://cotenfrontend.pl/img/cov.png)
+![cover](./img/cover.png)
 
 # Hydrapp
 
@@ -15,4 +15,3 @@ Opne site in Chrome. Click on `install` button to download desktop app.
 `remove glass` - removes glass of water
 
 `reset` - resets all glasses of water
-
