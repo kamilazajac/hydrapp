@@ -1,4 +1,4 @@
-![cover](../img/cover.png)
+![cover](gh/cover.png)
 
 # Hydrapp
 
